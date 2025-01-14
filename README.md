@@ -1,16 +1,14 @@
 ### Hello 👋
-I am a quality assurance automation engineer in training.
+I am a junior JavaScript QA automation engineer.
 
 I love working with:
-- 🐧 Linux 
+- 🐧 Linux
 - ⚙️ APIs
 - 📄 Documentation
-- 🐋 Docker 
-- 🚀 Postman 
+- 🐋 Docker
+- 🚀 Postman
 
 I am currently learning:
 - Python
 - Bash scripting
 - API security testing
-
-I work mostly with JavaScript and Playwright.
